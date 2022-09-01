@@ -1,5 +1,5 @@
 # brand-assets
-Copy and pasting from Github.
+ETHBerlin³ brand assets CC0 by https://nobsstudio.com/
 
 [![header-condensed](./header-condensed.png)](./header-condensed.png)
 
